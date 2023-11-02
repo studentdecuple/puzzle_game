@@ -243,7 +243,7 @@ def choose_file():
 
 global IMAGE_FILE, GRID_SIZE
 IMAGE_FILE = choose_file()
-GRID_COUNT = (4, 4)
+GRID_COUNT = (5, 5)
 
 
 
